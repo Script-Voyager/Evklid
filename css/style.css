@@ -602,32 +602,32 @@ body {
   background-image: url("../img/how-bg1.jpg");
   background-position: right bottom;
   background-repeat: no-repeat;
-  background-size: 870px 460px;
+  background-size: 790px 490px;
 }
 
 .tabs-item__image2 {
   background-image: url("../img/how-bg2.jpg");
   background-position: right bottom;
   background-repeat: no-repeat;
-  background-size: 870px 460px;
+  background-size: 790px 490px;
 }
 
 .tabs-item__image3 {
   background-image: url("../img/how-bg3.jpg");
   background-position: right bottom;
   background-repeat: no-repeat;
-  background-size: 870px 460px;
+  background-size: 790px 490px;
 }
 
 .tabs-item__image4 {
   background-image: url("../img/how-bg4.jpg");
   background-position: right bottom;
   background-repeat: no-repeat;
-  background-size: 870px 460px;
+  background-size: 790px 490px;
 }
 
 .tabs-item__descr {
-  max-width: 758px;
+  max-width: 630px;
   min-height: 320px;
 }
 
